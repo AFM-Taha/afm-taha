@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Bit-Bots and Gao-Gram](https://effortless-praline-11b485.netlify.app/)
+- 🔭 I’m currently working on [Gao-Gram](http://admin.dev.gaogram.com/)
 
 - 🌱 I’m currently learning **Next.js**
 
