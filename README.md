@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Gao-Gram](http://admin.dev.gaogram.com/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **psql**
 
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **taha.iu.bd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BMwlB63tbaFvqjbG_ArV7GSmGsq7wgNE/view?usp=sharing](https://drive.google.com/file/d/1BMwlB63tbaFvqjbG_ArV7GSmGsq7wgNE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing](https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
