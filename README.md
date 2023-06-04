@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on [Gao-Gram](http://admin.dev.gaogram.com/)
+- 🔭 I’m currently working on [ETCETERA21](https://electronics-ecommerce.vercel.app/) and [Job Portal](https://job-portal-three-pi.vercel.app/)
 
 - 🌱 I’m currently learning **psql**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **taha.iu.bd@gmail.com**
 
