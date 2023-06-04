@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **taha.iu.bd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing](https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing)
+- 📄 Know about my experiences [Explore my resume](https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
