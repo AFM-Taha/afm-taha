@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [ETCETERA21](https://electronics-ecommerce.vercel.app/) and [Job Portal](https://job-portal-three-pi.vercel.app/)
+- 🔭 I’m currently working on [Tiktok-Find](https://fiver-tau.vercel.app/) and [Affiling](https://affling.vercel.app/privacy)
 
 - 🌱 I’m currently learning **psql**
 
