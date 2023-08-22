@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Tiktok-Find](https://fiver-tau.vercel.app/) and [Affiling](https://affling.vercel.app/privacy)
+- 🔭 I’m currently working on [NichoShop](https://nichoshop.com/)
 
 - 🌱 I’m currently learning **psql**
 
