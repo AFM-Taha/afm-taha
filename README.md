@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NichoShop](https://nichoshop.com/)
 
-- - 🔭 I’m currently working on [NichoShop](https://nichoshop.com/](https://drive.google.com/file/d/1opiuzLlBIWLS1O9oUCsWdwYhI0XQVCHg/view?usp=sharing))
+- 🔭 I’m currently working on [NichoShop](https://drive.google.com/file/d/1opiuzLlBIWLS1O9oUCsWdwYhI0XQVCHg/view?usp=sharing)
 
 - 🌱 I’m currently learning **psql**
 
