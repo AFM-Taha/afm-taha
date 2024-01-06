@@ -7,8 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [NichoShop](https://nichoshop.com/) [Downloaw](https://drive.google.com/drive/folders/1emZgV4i0lloaBgJZOg3DeVVw_AHch3Xw?usp=sharing)
-
+- 🔭 I’m currently working on [NichoShop](https://nichoshop.com/) 
 - 🌱 I’m currently learning **psql**
 
 - 💬 Ask me about **Next.js**
