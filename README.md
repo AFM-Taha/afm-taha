@@ -13,6 +13,7 @@
 - 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **taha.iu.bd@gmail.com**
+📄 Know about my experiences [Download](https://docs.google.com/document/d/17WjXJVcA_8B-oYE-Zb_tznahPGZEgq2IkBb1kfQNZjk/edit?usp=sharing)
 
 - 📄 Know about my experiences [Explore my resume](https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing)
 
