@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A professional front-end developer.</h3>
+<h3 align="center">A Professional Full Stack Developer -MERN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamah&label=Profile%20views&color=0e75b6&style=flat" alt="tahamah" /> </p>
 
