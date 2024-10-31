@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at [Unitic Exchange pvt ltd](https://uniticexchange.com/) 
 - 🌱 I’m currently learning **PSQL**
 
-- 💬 Ask me about **Next.js**||**React.js**||**TS**||**JS**
+- 💬 Ask me about **Next.js** || **React.js** || **TS** || **JS**
 
 - 📫 How to reach me **taha.iu.bd@gmail.com**
   
