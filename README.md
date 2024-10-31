@@ -1,4 +1,4 @@
-[![MasterHead](https://unsplash.com/photos/close-up-of-a-woman-hacker-hands-at-keyboard-computer-in-the-dark-room-at-night-cyberwar-concept-high-angle-view-YkibINt3MXo)](https://github.com/afm-taha)
+
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A professional front-end developer.</h3>
 
