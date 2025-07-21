@@ -3,7 +3,7 @@
 <h3 align="center">A Professional Full Stack Developer -MERN</h3>
 
 <p align="center">
-  <img src="https://bluex.vercel.app/_next/image?url=%2Facd.gif&w=1920&q=75" width="100%" />
+  <img src="https://bluex.vercel.app/_next/image?url=%2Facd.gif&w=1920&q=75" width="100%" height="200px" />
 </p>
 
 
