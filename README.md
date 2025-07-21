@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A Professional Full Stack Developer -MERN</h3>
 
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNsNjVtcG9rcXp0cmNlMmtnZG5rdXowcGxmaWlyZzloeWo3ZmdreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afm-taha&label=Profile%20views&color=0e75b6&style=flat" alt="afm-taha" /> </p>
 
 
