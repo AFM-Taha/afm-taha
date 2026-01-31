@@ -38,12 +38,16 @@
 ## ⚡ Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afm-taha&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afm-taha&hide_border=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afm-taha&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afm-taha&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afm-taha&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afm-taha&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=afm-taha&hide_border=true&bg_color=transparent&color=0e75b6&line=0e75b6&point=ffffff&area=true" />
 </p>
 
 ---
@@ -55,6 +59,7 @@
 - 💬 Ask me about **Next.js • React • TypeScript • JavaScript**
 - 📩 Contact: **taha.iu.bd@gmail.com** | **taha@uniticexchange.com**
 - 📄 Resume: **[Explore my Resume](https://drive.google.com/file/d/1pLG9dXXaDUk7oLjdgDGLWNsp53vhq304/view?usp=sharing)**
+- 📁 Docs/Files: **[Download](https://drive.google.com/drive/folders/1emZgV4i0lloaBgJZOg3DeVVw_AHch3Xw?usp=drive_link)**
 
 ---
 
@@ -72,21 +77,20 @@
 ### 🟦 BlueX
 **Cross-border e-commerce & automation-focused platform**  
 **Tech:** Next.js • React • Node.js • MongoDB • Tailwind • JWT  
-🌍 Live: https://bluex.vercel.app/
+
 
 ### 📚 BXLibrary
-**Modern eBook library system (HTML-based reading experience)**  
+**Modern eBook Library system (HTML-based reading experience)**  
 **Tech:** Next.js • React • MongoDB • Dashboard UI • Auth  
 ✨ Focus: Upload • Manage • Read • Subscription-ready
+🌍 Live: https://bxlibrary.com
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,postgres,redux,tailwind,materialui,git,figma,postman,linux&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,postgres,redux,tailwind,materialui,git,figma,postman,linux&perline=8" />
 </p>
 
 ---
@@ -94,7 +98,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afm-taha&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=afm-taha&theme=algolia&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
