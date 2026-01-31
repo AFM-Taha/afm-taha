@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afm-taha&label=Profile%20Views&color=0e75b6&style=flat" alt="afm-taha" />
+  <img src="https://komarev.com/ghpvc/?username=bxtaha&label=Profile%20Views&color=0e75b6&style=flat" alt="bxtaha" />
 </p>
 
 ---
@@ -38,16 +38,16 @@
 ## ⚡ Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afm-taha&show_icons=true&hide_border=true&theme=transparent" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afm-taha&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bxtaha&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bxtaha&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afm-taha&layout=compact&hide_border=true&theme=transparent" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxtaha&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=afm-taha&hide_border=true&bg_color=transparent&color=0e75b6&line=0e75b6&point=ffffff&area=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bxtaha&hide_border=true&bg_color=transparent&color=0e75b6&line=0e75b6&point=ffffff&area=true" />
 </p>
 
 ---
@@ -98,7 +98,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afm-taha&theme=algolia&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bxtaha&theme=algolia&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
