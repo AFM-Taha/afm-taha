@@ -36,15 +36,13 @@
 ---
 
 ## ⚡ Dashboard
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=bxtaha&hide_border=true&theme=transparent&cache_seconds=86400&v=1" />
+<p align="center"> 
+  <img width="49%" src="https://github-readme-stats-xbwy.vercel.app/api/top-langs/?username=bxtaha&layout=compact&exclude_repo=c,github-readme-streak-stats,github-readme-stats&theme=github_dark&hide_border=true&card_width=500" /> 
+  <img width="49%" src="https://github-readme-streak-stats-pi-inky.vercel.app?user=bxtaha&theme=github-dark-blue&hide_border=true" /> 
 </p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bxtaha&hide_border=true&bg_color=transparent&color=0e75b6&line=0e75b6&point=ffffff&area=true&v=1" />
+<p align="center"> 
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bxtaha&hide_border=true&bg_color=transparent&color=0e75b6&line=0e75b6&point=ffffff&area=true&v=1" /> 
 </p>
-
 
 
 ## 🧰 Tech Stack
@@ -52,6 +50,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,postgres,redux,tailwind,materialui,git,figma,postman,linux&perline=8" />
 </p>
+
+
 
 
 
